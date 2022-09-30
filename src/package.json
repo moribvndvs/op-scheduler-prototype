@@ -1,0 +1,21 @@
+{
+  "main": "src/index.ts",
+  "dependencies": {
+    "@devexpress/dx-react-core": "3.0.5",
+    "@devexpress/dx-react-scheduler": "3.0.5",
+    "@devexpress/dx-react-scheduler-material-ui": "3.0.5",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "@faker-js/faker": "7.5.0",
+    "@mui/icons-material": "5.10.6",
+    "@mui/lab": "5.0.0-alpha.100",
+    "@mui/material": "5.10.6",
+    "@mui/x-date-pickers": "5.0.2",
+    "date-fns": "2.29.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "keywords": [],
+  "name": "op-scheduler-prototype",
+  "description": ""
+}
